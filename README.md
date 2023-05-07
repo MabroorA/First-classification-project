@@ -22,6 +22,8 @@ Training Accuracy vs Validation Accuracy
 
 Training Loss vs Validation Loss
 
+![image](https://user-images.githubusercontent.com/109113298/236652794-0d51fb05-4e62-4952-8cb0-ded3e6ecc423.png)
+
 # Prediction
 The model is used to predict whether an x-ray is normal or contains pneumonia on the test dataset. The prediction results are shown below:
 
