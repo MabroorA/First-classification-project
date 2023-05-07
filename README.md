@@ -30,6 +30,8 @@ The model is used to predict whether an x-ray is normal or contains pneumonia on
 # Prediction Results
 
 The model achieves an accuracy of 87.8% on the test dataset.
+An example is shown below of the result
+![image](https://user-images.githubusercontent.com/109113298/236652811-6c04ade7-3f77-4200-9b13-0d977224eb83.png)
 
 # Conclusion
 The CNN model achieves a high accuracy in detecting pneumonia from chest x-ray images. This project demonstrates the potential of deep learning in medical imaging analysis and could be further improved with more data and fine-tuning of hyperparameters.
